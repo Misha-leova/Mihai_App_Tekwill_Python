@@ -1,5 +1,3 @@
-Iată un exemplu complet și detaliat de fișier README.md pentru aplicația ta:
-
 Habit Tracker
 
 Habit Tracker este o aplicație web creată pentru a ajuta utilizatorii să își gestioneze obiceiurile, să urmărească activitățile zilnice și să își atingă obiectivele personale. Aplicația oferă o interfață modernă, funcționalități interactive și un sistem de căutare avansată.
